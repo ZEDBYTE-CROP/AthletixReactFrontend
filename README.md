@@ -4,7 +4,7 @@
 ## Prerequisites:
 1.Node.js ( version v21.1.0 or later )
 
-## Install backend dependencies:
+## Install dependencies:
 sudo yarn install(MAC/LINUX) or yarn install(WINDOWS) with administrative access
 
 ## Start Server:
